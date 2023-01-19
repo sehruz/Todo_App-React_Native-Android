@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616994793254",
+    "project_id": "todoapp-88",
+    "storage_bucket": "todoapp-88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616994793254:android:ebcdb3bf343e2fdf7b03e7",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616994793254-t8ic145fd9ha0gg12ges18tr1iiq7eai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRJYGovv-uIWCkI5LI_Q07sge1ZNT5NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616994793254-t8ic145fd9ha0gg12ges18tr1iiq7eai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
